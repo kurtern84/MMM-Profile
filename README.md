@@ -10,7 +10,7 @@ Based on Default compliments, for the weather report.
 
 ### Screenshot
 
-(https://github.com/kurtern84/MMM-Profile/Screenshot/MMM-Profile.png)
+(https://github.com/kurtern84/MMM-profile/blob/master/Screenshot/MMM-Profile.png)
 
 ## Usage
 
