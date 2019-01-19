@@ -29,52 +29,52 @@ Module.register("MMM-Profile", {
 		// Compliments
 		compliments: {
 			day_sunny: [
-                                "I dag blir det sol, kom deg ut!"
+                                "Today it is sunny, get out!"
                         ],
                         snow: [
-                                "I dag blir det snø, kle på deg godt."
+                                "Today it gets snowy, dress well."
                         ],
                         cloudy: [
-                                "I dag blir det overskyet, greit og holde seg inne."
+                                "Today it gets cloudy, okay to stay inside."
                         ],
                         day_cloudy: [
-                                "I dag blir det overskyet, greit og holde seg inne."
+                                "Today it gets cloudy, okay to stay inside."
                         ],
                         cloudy_windy: [
-                                "Idag blir det mye vind, kle på deg godt, kan bli kaldt."
+                                "Today, there is a lot of wind, dress well, can get cold.."
                         ],
                         showers: [
-                                "I dag blir det regn, husk paraply."
+                                "Today its rain, remember umbrella."
                         ],
                         rain: [
-                                "I dag blir det regn, husk paraply."
+                                "Today its rain, remember umbrella."
                         ],
                         thunderstorm: [
-                                "I dag blir det tordenvær, på tide og ta frem kamera?"
+                                "Today its thunderstorm"
                         ],
                         night_cloudy: [
-                                "I dag blir det kaldt og overskyet."
+                                "Tonight it gets cold and cloudy."
                         ],
                         night_clear: [
-                                "Det er lettskyet i dag."
+                                "It is clear sky tonight"
                         ],
                         night_showers: [
-                                "Skal du ut, ta med paraply"
+                                "If you are going out tonight, bring an umbrella"
                         ],
                         night_rain: [
-                                "Skal du ut, ta med paraply"
+                                "If you are going out tonight, bring an umbrella"
                         ],
                         night_thunderstorm: [
-                                "På tide og ta frem kamera?"
+                                "Tonight there will be a thunderstorm, take out power cords."
                         ],
                         night_snow: [
-                                "Kaldt og snø."
+                                "Cold and snow."
                         ],
                         night_alt_cloudy_windy: [
-                                "Varierende vær."
+                                "Varying weather."
                         ],
                         fog: [
-                                "Dårlig sikt! Kjør forsiktig."
+                                "Poor visibility! Drive carefully."
                         ]
 		},
 		updateInterval: 30000,
