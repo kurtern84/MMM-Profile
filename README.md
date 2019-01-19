@@ -19,7 +19,7 @@ Based on Default compliments, for the weather report.
 
 _Prerequisites_
 
-- Requires MagicMirror v2.6.0 (maybe others)
+- Requires MagicMirror v2.1.0
 
 ### Installation
 
