@@ -1,5 +1,5 @@
 # MMM-Profile
-A simple module to add/show a profilpicture with your name and wheater report to your MagicMirror
+A simple module to show a profilpicture with your name and wheater report for your MagicMirror.
 Set the URL to the profilpicture, and your name in your config. Look at configuration options bellow
 
 To get the wheater report to work, you must use it with the default currentweather module.
@@ -35,15 +35,15 @@ Clone this repository:
 git clone https://github.com/kurtern84/MMM-profile.git
 ```
 
-Add some [config entries](#configuration) with the atleast the requierd [options](#options) in your config.js file. Add the module one time for each user (with different URL:s for each user of course).
+Add some [config entries](#configuration) with the atleast the requierd [options](#options) in your config.js file. 
 
 ### Configuration
 
 ```javascript
-	{
-      module: "MMM-Profile",
-      position: "top_left",
-      config: {
+{
+    module: "MMM-Profile",
+    position: "top_left",
+    config: {
         // Transparency of the picture.
         opacity: 1.0,
         // Maximum width of the picture.
