@@ -55,7 +55,7 @@ Add some [config entries](#configuration) with the atleast the requierd [options
         // The URL to the picture.
         url: "https://www.yourpicture.com",
         // Add a profile name.
-        yourName: "Hi, Joe Doe!",
+        yourName: "Hi, Jonh Doe!",
         // Add some random text to show.
         randomText: "",
         // Compliments
