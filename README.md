@@ -10,9 +10,9 @@ Based on Default compliments, for the weather report.
 
 ### Screenshot
 
-<p align="center">
+
 <img style="flat: left; width: 50%;" src="Screenshot/MMM-Profile.png">
-</p>
+
 
 
 ## Usage
