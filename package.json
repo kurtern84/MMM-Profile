@@ -1,0 +1,26 @@
+{
+  "name": "Magic-Mirror-Module-Profile",
+  "version": "1.0.0",
+  "description": "Profile Information module for the Magic Mirror.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtern84/MMM-profile"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "profile",
+    "weather",
+    "module"
+  ],
+  "author": "Kurt Frydenberg",
+  "contributors": "https://github.com/kurtern84/MMM-profile/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurtern84/MMM-profile/issues"
+  },
+  "homepage": "https://github.com/kurtern84/MMM-profile#readme",
+  "dependencies": {
+    "async": "latest"
+    }
+}
