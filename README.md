@@ -32,7 +32,7 @@ cd ~/MagicMirror/modules
 Clone this repository:
 
 ```
-git clone https://github.com/kurtern84/MMM-profile.git
+git clone https://github.com/kurtern84/MMM-Profile.git
 ```
 
 Add some [config entries](#configuration) with the atleast the requierd [options](#options) in your config.js file. 
